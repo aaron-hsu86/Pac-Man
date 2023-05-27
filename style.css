@@ -18,7 +18,11 @@ div.coin {
     background-position: center;
     background-size: contain;
 }
-div.empty {
+div.cherry {
+    background: url('./images/Cherry\ Bonus.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
 
 }
 div#pacman {
